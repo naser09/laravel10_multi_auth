@@ -55,7 +55,7 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'http://localhost'),
+    'url' => env('APP_URL', 'https://naser09-fantastic-broccoli-7xvjq4j5x5qhr47v-8000.preview.app.github.dev'),
 
     'asset_url' => env('ASSET_URL'),
 
